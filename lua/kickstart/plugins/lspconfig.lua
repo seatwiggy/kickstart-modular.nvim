@@ -203,6 +203,20 @@ return {
             },
           },
         },
+        bashls = {},
+        clangd = {},
+        cssls = {},
+        cypher_ls = {},
+        docker_compose_language_service = {},
+        dockerls = {},
+        graphql = {},
+        helm_ls = {},
+        html = {},
+        jdtls = {},
+        jsonls = {},
+        pyright = {},
+        ts_ls = {},
+        yamlls = {},
       }
 
       -- Ensure the servers and tools above are installed
